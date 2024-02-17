@@ -1,0 +1,20 @@
+/* .rightbar{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 60px;
+    font-size: 20px;
+} */
+.rightbar {
+  margin-bottom: 20px;
+}
+.right_card_sec {
+  background-color: #f5f6f7;
+}
+.rightbar_main {
+  padding: 0px 15px 0px 0px;
+}
+
+.css-bhp9pd-MuiPaper-root-MuiCard-root {
+  box-shadow: 3px 3px 1px 0px white;
+}
+

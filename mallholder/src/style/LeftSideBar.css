@@ -1,0 +1,36 @@
+.header_left{
+    padding-top:10px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 56px;
+    font-size: 20px;
+    background-color: white;
+    height:91vh;
+    box-shadow: 3px 3px 1px 0px white;
+    color: #616161;
+}
+.header_left .left_mail_box{
+    padding:10px 0px 8px 20px;
+    cursor: pointer;
+}
+
+.header_left .left_mail_box:hover{
+    background-color: rgba(0, 0, 0, 0.043);
+    transition: 0.8s;
+}
+.header_left .left_mail_box .icon{
+    color:#777777;
+}
+.header_left .left_mail_box p{
+    font-size:16px;
+}
+.header_left .left_mail_box i{
+    margin-right:20px;
+    font-size:18px;
+    width:15%;
+}
+
+.bottom_hr_line{
+    background-color: gray;
+}
+
